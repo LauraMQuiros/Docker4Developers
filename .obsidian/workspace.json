@@ -147,10 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb0515f5a8b15b49",
+  "active": "a43c890ea128c559",
   "lastOpenFiles": [
-    "2023-06-28.md",
+    "common-development-profiles/demos/nodejs/www/index.htm",
+    "common-development-profiles/demos/python/templates/index.htm",
+    "common-development-profiles/demos/aspnet-core/wwwroot/index.htm",
+    "common-development-profiles/demos/nodejs/www",
+    "common-development-profiles/demos/nodejs/index.js",
+    "common-development-profiles/demos/nodejs/package.json",
+    "common-development-profiles/demos/nodejs/Dockerfile",
+    "common-development-profiles/demos/nodejs/buildandrun.bat",
+    "common-development-profiles/demos/php/index.php",
+    "common-development-profiles/demos/php/Dockerfile",
+    "common-development-profiles/demos/php/myapi.php",
     "Obsidian Notes.md",
-    "Untitled"
+    "MAINTAINERS.md",
+    "2023-06-28.md"
   ]
 }
