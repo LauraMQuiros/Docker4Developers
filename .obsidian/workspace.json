@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "48b79fd5be768713",
+    "type": "split",
+    "children": [
+      {
+        "id": "9792d0274211cc55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43c890ea128c559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82151468e3774924",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a45c5352eac8d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0515f5a8b15b49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb8feadd2663e7ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab3e70fb3ea7d455",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07c64593274af069",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f12c83e1ede2aa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a27478aa1874c89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d492a8a1df1a1683",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78bf8af143b5958d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5daf9fbce2f372ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a43c890ea128c559",
+  "lastOpenFiles": [
+    "Obsidian Notes.md",
+    "Untitled"
+  ]
+}
