@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "07c64593274af069",
@@ -146,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a43c890ea128c559",
+  "active": "eb0515f5a8b15b49",
   "lastOpenFiles": [
+    "2023-06-28.md",
     "Obsidian Notes.md",
     "Untitled"
   ]
